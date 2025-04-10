@@ -1,2 +1,2 @@
-# PolarDataFrames
-Going through Polar Cookbook by Yuki Kokegawa
+# PolarsDataFrames
+Going through Polars Cookbook by Yuki Kokegawa
